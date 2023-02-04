@@ -6,7 +6,7 @@ The web scripts are unavailable due to issues with the backup process, an older 
 
 Credits:
  - BReeZ - Creator/Project Lead/Producer
- - Aes - Web Developer
+ - Aes - Web/Plugins Developer
  - Caleon - Mapper / Modeler
  - Drixevel - Plugins Developer
  - DS - Plugins Developer
