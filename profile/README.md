@@ -13,6 +13,6 @@ Credits:
  - Backwards - Plugins Developer
  - FrAgOrDiE - Plugins Developer
  - Addie/Dysphie - Plugins Developer
- - Justin Chella - Plugins Developer
+ - Sir Jay - Plugins Developer
 
 All files in every repo are licensed under the GNU General Public License, version 3.
